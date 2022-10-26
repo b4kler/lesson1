@@ -1,1 +1,5 @@
-print('Hello, World')
+print('Введите имя: ')
+a = input()
+
+
+print('Hello, ', a)
